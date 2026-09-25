@@ -1,0 +1,27 @@
+sidebar: device_sidebar
+title: Goodtech Mobitel 709S (Payment System)
+
+name: Mobitel 709S
+vendor: Goodtech
+type: phone
+current_branch: 23.0
+
+custom_features:
+  - name: Mobitel OS Payment Gateway
+    description: Integrated secure hardware layer for transactional processing.
+  - name: Biometric POS Security
+    description: Enhanced kernel-level protection for point-of-sale operations.
+
+architecture: arm64
+soc: MediaTek
+ram: 2 GB
+storage: 16 GB
+battery:
+  capacity: 3000
+  removable: false
+screen:
+  res: 720x1440
+  size: 5.5
+  technology: IPS LCD
+
+image: m709s.png
